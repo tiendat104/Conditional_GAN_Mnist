@@ -1,6 +1,7 @@
 # Conditional_GAN_Mnist
 # Abstract 
-In this project, we implement a conditional GAN model for the Mnist dataset. 
+This project is our team's final project for the course CS492 Machine learning Computer vision at Kaist University.
+Inside this project, we implement conditional GAN model for the Mnist dataset.
 
 # Installation
 - keras==2.4.3
