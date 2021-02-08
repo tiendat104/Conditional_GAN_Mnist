@@ -34,7 +34,8 @@ Furthermore, after we get a good model (in file cgan.py), we try to improve our 
 "label smoothing". The file cgan_one_sided_smoothing.py contains code for the model that applies this technique. 
 
 # Experiment result
-We create a report for all of our problems during training our model such as "mode collapse" and "convergence failure".
+We create a report for problems during training such as "mode collapse" and "convergence failure", as well as 
+how to overcome them
 
 We also report the effect of applying "one sided label smoothing" technique to our model. 
 
