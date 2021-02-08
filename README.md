@@ -1,6 +1,6 @@
 # Conditional_GAN_Mnist
 # Abstract 
-This project is our team's final project for the course CS492 Machine learning Computer vision at Kaist University.
+This project is our team's final project for the course CS492 "Machine learning Computer vision" at Kaist University.
 Inside this project, we implement conditional GAN model for the Mnist dataset.
 
 # Installation
