@@ -32,11 +32,11 @@ In this project, the file cgan_mode_collapse.py contains code for the model that
 And the file cgan_convergence_failure.py contains code for the model that produces "convergence failure" problem.
 
 Furthermore, after we get a good model (in file cgan.py), we try to improve our model by applying the technique
-"label smoothing". The file cgan_one_sided_smoothing.py contains code for the model that applies this technique. 
+"one-sided label smoothing". The file cgan_one_sided_smoothing.py contains code for the model that applies this technique. 
 
 # Experiment result
 We create a report for problems during training such as "mode collapse" and "convergence failure", as well as 
-how to overcome them
+how to overcome them.
 
 We also report the effect of applying "one sided label smoothing" technique to our model. 
 
